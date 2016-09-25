@@ -5,8 +5,10 @@ using namespace std;
 
 int scanArray(int arr[3][3], int i);
 void printArray(int arr[3][3]);
+// Название функции не отражает того, что она делает
 void test(int arr[3][3], int i);
 
+// Не понятно о чем вообще программа
 int main()
 {
 	setlocale(LC_ALL, "rus");
